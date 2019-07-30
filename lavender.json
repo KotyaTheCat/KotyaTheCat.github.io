@@ -23,19 +23,4 @@
   "developer_url": "instagram.com/_kotyathekot_",
   "website_url": "kotyathecat.github.io", 
   "developer": "TheKotya / KotyaTheCat"
-}
-   { "error":false,
-      "datetime": 201907251621,
-      "filename": "PixelExperience_lavender-9.0-20190728-2113-UNOFFICIAL.zip",
-      "id": "1311f0f1b02d4335915193b22efa5d6ba676c0eff4862d66e863fcc50cfd19fc",
-      "filehash": "4859da138cf947713a842d9616491f09",
-      "romtype": "UNOFFICIAL",
-      "size": 1206049500,
-      "url": "https://drive.google.com/open?id=1GSAKyFBl1kC5KR8M8gNzSdcAlig2YYZr",
-      "version": "pie",
-      "device": "lavender",
-      "maintainer": "KotyaTheCat / TheKotya",
-      "donate_url": "https://vk.com/arvogl",
-      "website_url": "kotyathecat.github.io",
-      "news_url": "https://t.me/KotyaTheCat",
-    }
+},
