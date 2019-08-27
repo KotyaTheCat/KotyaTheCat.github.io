@@ -1,11 +1,11 @@
 # Basic
-title: TheKotya
-subtitle: KotyaTheCat1
+title: KotyaTheCat
+subtitle: Developer
 description: 欢迎来到我的个人站~
 # 头像里面的标题
-avatarTitle: KotyaTheCat
+avatarTitle: The Kotya
 # 头像里面的描述
-avatarDesc: YouTube
+avatarDesc:
 url: "http://google.com"
 
 # Comment
@@ -56,7 +56,7 @@ cover_color: clear
 
 # The blog button should not be removed.
 blog_button:
-    title: 博客主页
+    title: Blog
 
 # Navigation buttons in the front page.s
 nav:
