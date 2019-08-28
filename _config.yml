@@ -44,10 +44,9 @@ blog_button:
     title: Блог
 
 # Navigation buttons in the front page.s
-nav:
-    - {title: Архив, description: archive, url: '/archive'}   
-    - {title: Тэги, description: tags, url: '/tags'}      
-    - {title: О, description: about, url: '/about'}      
+nav:     
+    - {title: Обо мне, description: about, url: '/about'}
+    - {title: Назад, description: tags, url: '/'} 
     
 
 # Pagination
