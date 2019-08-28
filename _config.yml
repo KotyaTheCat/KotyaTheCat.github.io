@@ -21,11 +21,12 @@ textColor: #FF0000
 cover_color: clear
 
 # Navigation buttons in the front page.s
-nav:- {title: Telegram, description: Телеграм, url: 'https://t.me/The_Kotya'}
+nav:
     - {title: Обо мне, description: Обо мне, url: '/about'}
     - {title: vk.com, description: ВКонтакте, url: 'https://vk.com/kotyathecat'}
     - {title: instagram, description: Инстаграм, url: 'https://instagram.com/kotyathecat_'}
     - {title: Telegram, description: Телеграм, url: 'https://t.me/The_Kotya'}
+    - {title: YouTube, description: YouTube, url: 'https://youtube.com/c/АрВоГл'}
     
 # Pagination
 gems: [jekyll-paginate,jekyll-sitemap]
