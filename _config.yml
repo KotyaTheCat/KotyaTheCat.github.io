@@ -1,7 +1,7 @@
 # Basic
 title: KotyaTheCat
 subtitle: Developer
-description: Developer
+description:
 avatarTitle: The Kotya
 avatarDesc:
 url: "http://google.com"
@@ -14,7 +14,7 @@ comment:
 
 # Social
 social:
-    github: KotyaThecat
+    github: KotyaTheCat
     # zhihu: Kotya
     # juejin: xxx
     # twitter: 
@@ -45,8 +45,8 @@ blog_button:
 
 # Navigation buttons in the front page.s
 nav:     
-    - {title: Обо мне, description: about, url: '/about'}
-    - {title: Назад, description: tags, url: '/'} 
+    - {title: Обо мне, description: Обо мне, url: '/about'}
+    - {title: Назад, description: Назад к главной странице, url: '/'} 
     
 
 # Pagination
