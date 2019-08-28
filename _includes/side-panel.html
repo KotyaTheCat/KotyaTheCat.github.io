@@ -6,6 +6,20 @@
         <!-- 头像效果-start -->
         <div class="ih-item circle effect right_to_left">            
             <a href="/" title=" {{ site.title }} " class="blog-button">
+               <div class="info">
+                    <div class="info-back">
+                        <h2> 
+                            {% if site.avatarTitle %}
+                                {{site.avatarTitle}}
+                            {% endif %}
+                        </h2>
+                        <p>
+                           {% if site.avatarDesc %}
+                                {{site.avatarDesc}}
+                            {% endif %}
+                        </p>
+                    </div>
+                </div>
                 <div class="img"><img src="/images/avatar.jpg" alt="img"></div>
             </a>
         </div>
